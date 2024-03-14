@@ -16,6 +16,14 @@ or
 "./mvnw clean install" in linux/macOS
 "mvnw.cmd clean install" on windows
 
+3. To run the project:
+- you can type on terminal "mvn spring-boot:run"
+or
+- press ctrl + shift + f10
+or
+- route to src/main/java/NoteApplication.java then click run Application
+
+  
 ### `Using the API`
 After you setup and run the project. You can use the following API calls:
 #### POST: localhost:8080/notes
