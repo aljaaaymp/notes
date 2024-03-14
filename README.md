@@ -46,8 +46,8 @@ Expected response:
 #### PUT: localhost:8080/notes/{noteID} / localhost:8080/notes/1
 Request body:
 {
-    "title": "asdasd",
-    "body": "body"
+    "title": "SAMPLE TITLE",
+    "body": "Sample body here"
 }
 
 #### DELETE: localhost:8080/notes/{noteID} / localhost:8080/notes/1
