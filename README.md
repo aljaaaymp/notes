@@ -35,7 +35,7 @@ Expected response:
     }
 }
 
-#### GET specific: localhost:8080/notes/{noteID} / localhost:8080/notes/1
+#### GET specific: localhost:8080/notes/{noteID}  OR  localhost:8080/notes/1
 Expected response:
 {
     "title": "SAMPLE TITLE",
@@ -43,14 +43,14 @@ Expected response:
     "id": 1
 }
 
-#### PUT: localhost:8080/notes/{noteID} / localhost:8080/notes/1
+#### PUT: localhost:8080/notes/{noteID}  OR  localhost:8080/notes/1
 Request body:
 {
     "title": "SAMPLE TITLE",
     "body": "Sample body here"
 }
 
-#### DELETE: localhost:8080/notes/{noteID} / localhost:8080/notes/1
+#### DELETE: localhost:8080/notes/{noteID}  OR  localhost:8080/notes/1
 
 
 
