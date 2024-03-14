@@ -1,6 +1,10 @@
 ### `Clone this project`
 Open cmd/terminal and run "git clone https://github.com/aljaaaymp/notes.git"
 
+### `Used Stacks`
+Java: OpenJDK version 17.0.9
+Maven
+
 ### `Steps to Build the Project`
 You can just use your Maven home path as default or "Bundled (Maven 3)" and it will automatically download the dependencies.
 or
